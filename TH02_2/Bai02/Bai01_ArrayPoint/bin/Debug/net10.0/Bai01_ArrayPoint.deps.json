@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Bai01_ArrayPoint/1.0.0": {
+        "dependencies": {
+          "Bai02_Point": "1.0.0"
+        },
+        "runtime": {
+          "Bai01_ArrayPoint.dll": {}
+        }
+      },
+      "Bai02_Point/1.0.0": {
+        "runtime": {
+          "Bai02_Point.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai01_ArrayPoint/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bai02_Point/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

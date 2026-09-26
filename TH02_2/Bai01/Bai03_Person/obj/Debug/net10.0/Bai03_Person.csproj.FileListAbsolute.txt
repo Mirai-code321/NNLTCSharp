@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai03_Person\bin\Debug\net10.0\Bai03_Person.exe
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai03_Person\bin\Debug\net10.0\Bai03_Person.deps.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai03_Person\bin\Debug\net10.0\Bai03_Person.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai03_Person\bin\Debug\net10.0\Bai03_Person.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai03_Person\bin\Debug\net10.0\Bai03_Person.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai03_Person\obj\Debug\net10.0\Bai03_Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai03_Person\obj\Debug\net10.0\Bai03_Person.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai03_Person\obj\Debug\net10.0\Bai03_Person.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai03_Person\obj\Debug\net10.0\Bai03_Person.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai03_Person\obj\Debug\net10.0\Bai03_Person.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai03_Person\obj\Debug\net10.0\refint\Bai03_Person.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai03_Person\obj\Debug\net10.0\Bai03_Person.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai03_Person\obj\Debug\net10.0\Bai03_Person.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai03_Person\obj\Debug\net10.0\ref\Bai03_Person.dll

@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai02_Point\bin\Debug\net10.0\Bai02_Point.exe
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai02_Point\bin\Debug\net10.0\Bai02_Point.deps.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai02_Point\bin\Debug\net10.0\Bai02_Point.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai02_Point\bin\Debug\net10.0\Bai02_Point.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai02_Point\bin\Debug\net10.0\Bai02_Point.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai02_Point\obj\Debug\net10.0\Bai02_Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai02_Point\obj\Debug\net10.0\Bai02_Point.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai02_Point\obj\Debug\net10.0\Bai02_Point.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai02_Point\obj\Debug\net10.0\Bai02_Point.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai02_Point\obj\Debug\net10.0\Bai02_Point.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai02_Point\obj\Debug\net10.0\refint\Bai02_Point.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai02_Point\obj\Debug\net10.0\Bai02_Point.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai02_Point\obj\Debug\net10.0\Bai02_Point.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai02_Point\obj\Debug\net10.0\ref\Bai02_Point.dll

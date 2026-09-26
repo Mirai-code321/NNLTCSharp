@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Bai05_DaThuc/1.0.0": {
+        "dependencies": {
+          "Bai05_DonThuc": "1.0.0"
+        },
+        "runtime": {
+          "Bai05_DaThuc.dll": {}
+        }
+      },
+      "Bai05_DonThuc/1.0.0": {
+        "runtime": {
+          "Bai05_DonThuc.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai05_DaThuc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bai05_DonThuc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

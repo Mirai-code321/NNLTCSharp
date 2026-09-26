@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Bai9_TimMaxMin/1.0.0": {
+        "runtime": {
+          "Bai9_TimMaxMin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai9_TimMaxMin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

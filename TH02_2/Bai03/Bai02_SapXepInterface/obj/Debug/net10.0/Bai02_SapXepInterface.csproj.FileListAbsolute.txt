@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai02_SapXepInterface\bin\Debug\net10.0\Bai02_SapXepInterface.exe
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai02_SapXepInterface\bin\Debug\net10.0\Bai02_SapXepInterface.deps.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai02_SapXepInterface\bin\Debug\net10.0\Bai02_SapXepInterface.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai02_SapXepInterface\bin\Debug\net10.0\Bai02_SapXepInterface.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai02_SapXepInterface\bin\Debug\net10.0\Bai02_SapXepInterface.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai02_SapXepInterface\obj\Debug\net10.0\Bai02_SapXepInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai02_SapXepInterface\obj\Debug\net10.0\Bai02_SapXepInterface.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai02_SapXepInterface\obj\Debug\net10.0\Bai02_SapXepInterface.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai02_SapXepInterface\obj\Debug\net10.0\Bai02_SapXepInterface.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai02_SapXepInterface\obj\Debug\net10.0\Bai02_SapXepInterface.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai02_SapXepInterface\obj\Debug\net10.0\refint\Bai02_SapXepInterface.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai02_SapXepInterface\obj\Debug\net10.0\Bai02_SapXepInterface.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai02_SapXepInterface\obj\Debug\net10.0\Bai02_SapXepInterface.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai02_SapXepInterface\obj\Debug\net10.0\ref\Bai02_SapXepInterface.dll

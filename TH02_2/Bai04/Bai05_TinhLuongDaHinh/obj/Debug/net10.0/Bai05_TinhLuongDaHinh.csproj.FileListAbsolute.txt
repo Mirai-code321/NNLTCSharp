@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai05_TinhLuongDaHinh\bin\Debug\net10.0\Bai05_TinhLuongDaHinh.exe
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai05_TinhLuongDaHinh\bin\Debug\net10.0\Bai05_TinhLuongDaHinh.deps.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai05_TinhLuongDaHinh\bin\Debug\net10.0\Bai05_TinhLuongDaHinh.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai05_TinhLuongDaHinh\bin\Debug\net10.0\Bai05_TinhLuongDaHinh.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai05_TinhLuongDaHinh\bin\Debug\net10.0\Bai05_TinhLuongDaHinh.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai05_TinhLuongDaHinh\obj\Debug\net10.0\Bai05_TinhLuongDaHinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai05_TinhLuongDaHinh\obj\Debug\net10.0\Bai05_TinhLuongDaHinh.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai05_TinhLuongDaHinh\obj\Debug\net10.0\Bai05_TinhLuongDaHinh.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai05_TinhLuongDaHinh\obj\Debug\net10.0\Bai05_TinhLuongDaHinh.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai05_TinhLuongDaHinh\obj\Debug\net10.0\Bai05_TinhLuongDaHinh.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai05_TinhLuongDaHinh\obj\Debug\net10.0\refint\Bai05_TinhLuongDaHinh.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai05_TinhLuongDaHinh\obj\Debug\net10.0\Bai05_TinhLuongDaHinh.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai05_TinhLuongDaHinh\obj\Debug\net10.0\Bai05_TinhLuongDaHinh.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai05_TinhLuongDaHinh\obj\Debug\net10.0\ref\Bai05_TinhLuongDaHinh.dll

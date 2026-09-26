@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai04_ConsoleMenu\obj\Debug\net10.0\Bai04_ConsoleMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai04_ConsoleMenu\obj\Debug\net10.0\Bai04_ConsoleMenu.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai04_ConsoleMenu\obj\Debug\net10.0\Bai04_ConsoleMenu.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai04_ConsoleMenu\obj\Debug\net10.0\Bai04_ConsoleMenu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai04_ConsoleMenu\bin\Debug\net10.0\Bai04_ConsoleMenu.exe
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai04_ConsoleMenu\bin\Debug\net10.0\Bai04_ConsoleMenu.deps.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai04_ConsoleMenu\bin\Debug\net10.0\Bai04_ConsoleMenu.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai04_ConsoleMenu\bin\Debug\net10.0\Bai04_ConsoleMenu.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai04_ConsoleMenu\bin\Debug\net10.0\Bai04_ConsoleMenu.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai04_ConsoleMenu\obj\Debug\net10.0\Bai04_ConsoleMenu.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai04_ConsoleMenu\obj\Debug\net10.0\refint\Bai04_ConsoleMenu.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai04_ConsoleMenu\obj\Debug\net10.0\Bai04_ConsoleMenu.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai04_ConsoleMenu\obj\Debug\net10.0\Bai04_ConsoleMenu.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai04_ConsoleMenu\obj\Debug\net10.0\ref\Bai04_ConsoleMenu.dll

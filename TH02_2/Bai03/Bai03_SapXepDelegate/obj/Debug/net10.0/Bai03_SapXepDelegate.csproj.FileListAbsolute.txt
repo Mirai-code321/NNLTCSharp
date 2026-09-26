@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai03_SapXepDelegate\bin\Debug\net10.0\Bai03_SapXepDelegate.exe
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai03_SapXepDelegate\bin\Debug\net10.0\Bai03_SapXepDelegate.deps.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai03_SapXepDelegate\bin\Debug\net10.0\Bai03_SapXepDelegate.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai03_SapXepDelegate\bin\Debug\net10.0\Bai03_SapXepDelegate.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai03_SapXepDelegate\bin\Debug\net10.0\Bai03_SapXepDelegate.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai03_SapXepDelegate\obj\Debug\net10.0\Bai03_SapXepDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai03_SapXepDelegate\obj\Debug\net10.0\Bai03_SapXepDelegate.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai03_SapXepDelegate\obj\Debug\net10.0\Bai03_SapXepDelegate.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai03_SapXepDelegate\obj\Debug\net10.0\Bai03_SapXepDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai03_SapXepDelegate\obj\Debug\net10.0\Bai03_SapXepDelegate.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai03_SapXepDelegate\obj\Debug\net10.0\refint\Bai03_SapXepDelegate.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai03_SapXepDelegate\obj\Debug\net10.0\Bai03_SapXepDelegate.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai03_SapXepDelegate\obj\Debug\net10.0\Bai03_SapXepDelegate.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai03\Bai03_SapXepDelegate\obj\Debug\net10.0\ref\Bai03_SapXepDelegate.dll

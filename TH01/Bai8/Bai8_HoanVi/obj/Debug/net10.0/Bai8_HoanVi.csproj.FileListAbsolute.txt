@@ -1,0 +1,14 @@
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai8\Bai8_HoanVi\bin\Debug\net10.0\Bai8_HoanVi.exe
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai8\Bai8_HoanVi\bin\Debug\net10.0\Bai8_HoanVi.deps.json
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai8\Bai8_HoanVi\bin\Debug\net10.0\Bai8_HoanVi.runtimeconfig.json
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai8\Bai8_HoanVi\bin\Debug\net10.0\Bai8_HoanVi.dll
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai8\Bai8_HoanVi\bin\Debug\net10.0\Bai8_HoanVi.pdb
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai8\Bai8_HoanVi\obj\Debug\net10.0\Bai8_HoanVi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai8\Bai8_HoanVi\obj\Debug\net10.0\Bai8_HoanVi.AssemblyInfoInputs.cache
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai8\Bai8_HoanVi\obj\Debug\net10.0\Bai8_HoanVi.AssemblyInfo.cs
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai8\Bai8_HoanVi\obj\Debug\net10.0\Bai8_HoanVi.csproj.CoreCompileInputs.cache
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai8\Bai8_HoanVi\obj\Debug\net10.0\Bai8_HoanVi.dll
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai8\Bai8_HoanVi\obj\Debug\net10.0\refint\Bai8_HoanVi.dll
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai8\Bai8_HoanVi\obj\Debug\net10.0\Bai8_HoanVi.pdb
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai8\Bai8_HoanVi\obj\Debug\net10.0\Bai8_HoanVi.genruntimeconfig.cache
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai8\Bai8_HoanVi\obj\Debug\net10.0\ref\Bai8_HoanVi.dll

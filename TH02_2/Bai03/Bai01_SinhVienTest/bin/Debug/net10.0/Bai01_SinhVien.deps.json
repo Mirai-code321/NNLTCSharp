@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Bai01_SinhVien/1.0.0": {
+        "runtime": {
+          "Bai01_SinhVien.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai01_SinhVien/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

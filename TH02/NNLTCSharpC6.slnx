@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Buoi01Prj/Buoi01Prj.csproj" />
+  <Project Path="MyLib/MyLib.csproj" />
+</Solution>

@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai05_DonThuc\bin\Debug\net10.0\Bai05_DonThuc.exe
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai05_DonThuc\bin\Debug\net10.0\Bai05_DonThuc.deps.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai05_DonThuc\bin\Debug\net10.0\Bai05_DonThuc.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai05_DonThuc\bin\Debug\net10.0\Bai05_DonThuc.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai05_DonThuc\bin\Debug\net10.0\Bai05_DonThuc.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai05_DonThuc\obj\Debug\net10.0\Bai05_DonThuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai05_DonThuc\obj\Debug\net10.0\Bai05_DonThuc.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai05_DonThuc\obj\Debug\net10.0\Bai05_DonThuc.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai05_DonThuc\obj\Debug\net10.0\Bai05_DonThuc.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai05_DonThuc\obj\Debug\net10.0\Bai05_DonThuc.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai05_DonThuc\obj\Debug\net10.0\refint\Bai05_DonThuc.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai05_DonThuc\obj\Debug\net10.0\Bai05_DonThuc.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai05_DonThuc\obj\Debug\net10.0\Bai05_DonThuc.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai01\Bai05_DonThuc\obj\Debug\net10.0\ref\Bai05_DonThuc.dll

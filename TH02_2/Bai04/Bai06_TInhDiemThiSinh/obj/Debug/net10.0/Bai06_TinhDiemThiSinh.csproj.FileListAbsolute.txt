@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai06_TInhDiemThiSinh\bin\Debug\net10.0\Bai06_TinhDiemThiSinh.exe
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai06_TInhDiemThiSinh\bin\Debug\net10.0\Bai06_TinhDiemThiSinh.deps.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai06_TInhDiemThiSinh\bin\Debug\net10.0\Bai06_TinhDiemThiSinh.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai06_TInhDiemThiSinh\bin\Debug\net10.0\Bai06_TinhDiemThiSinh.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai06_TInhDiemThiSinh\bin\Debug\net10.0\Bai06_TinhDiemThiSinh.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai06_TInhDiemThiSinh\obj\Debug\net10.0\Bai06_TinhDiemThiSinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai06_TInhDiemThiSinh\obj\Debug\net10.0\Bai06_TinhDiemThiSinh.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai06_TInhDiemThiSinh\obj\Debug\net10.0\Bai06_TinhDiemThiSinh.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai06_TInhDiemThiSinh\obj\Debug\net10.0\Bai06_TinhDiemThiSinh.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai06_TInhDiemThiSinh\obj\Debug\net10.0\Bai06_TinhDiemThiSinh.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai06_TInhDiemThiSinh\obj\Debug\net10.0\refint\Bai06_TinhDiemThiSinh.dll
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai06_TInhDiemThiSinh\obj\Debug\net10.0\Bai06_TinhDiemThiSinh.pdb
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai06_TInhDiemThiSinh\obj\Debug\net10.0\Bai06_TinhDiemThiSinh.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\Lab02_DangHuuDangTam_3124411265\Bai04\Bai06_TInhDiemThiSinh\obj\Debug\net10.0\ref\Bai06_TinhDiemThiSinh.dll

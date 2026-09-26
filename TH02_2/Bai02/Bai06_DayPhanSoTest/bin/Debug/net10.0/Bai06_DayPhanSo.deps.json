@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Bai06_DayPhanSo/1.0.0": {
+        "dependencies": {
+          "Bai04_PhanSo": "1.0.0"
+        },
+        "runtime": {
+          "Bai06_DayPhanSo.dll": {}
+        }
+      },
+      "Bai04_PhanSo/1.0.0": {
+        "runtime": {
+          "Bai04_PhanSo.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai06_DayPhanSo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bai04_PhanSo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

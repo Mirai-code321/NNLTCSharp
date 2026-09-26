@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Bai5_Menu/Bai5_Menu.csproj" />
+  <Project Path="Bai5_MenuTest/Bai5_MenuTest.csproj" />
+</Solution>

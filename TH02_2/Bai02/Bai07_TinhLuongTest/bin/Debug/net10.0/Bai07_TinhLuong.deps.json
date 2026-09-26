@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Bai07_TinhLuong/1.0.0": {
+        "runtime": {
+          "Bai07_TinhLuong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai07_TinhLuong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

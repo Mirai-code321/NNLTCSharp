@@ -1,0 +1,14 @@
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai9\Bai9_TimMaxMin\bin\Debug\net10.0\Bai9_TimMaxMin.exe
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai9\Bai9_TimMaxMin\bin\Debug\net10.0\Bai9_TimMaxMin.deps.json
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai9\Bai9_TimMaxMin\bin\Debug\net10.0\Bai9_TimMaxMin.runtimeconfig.json
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai9\Bai9_TimMaxMin\bin\Debug\net10.0\Bai9_TimMaxMin.dll
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai9\Bai9_TimMaxMin\bin\Debug\net10.0\Bai9_TimMaxMin.pdb
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai9\Bai9_TimMaxMin\obj\Debug\net10.0\Bai9_TimMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai9\Bai9_TimMaxMin\obj\Debug\net10.0\Bai9_TimMaxMin.AssemblyInfoInputs.cache
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai9\Bai9_TimMaxMin\obj\Debug\net10.0\Bai9_TimMaxMin.AssemblyInfo.cs
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai9\Bai9_TimMaxMin\obj\Debug\net10.0\Bai9_TimMaxMin.csproj.CoreCompileInputs.cache
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai9\Bai9_TimMaxMin\obj\Debug\net10.0\Bai9_TimMaxMin.dll
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai9\Bai9_TimMaxMin\obj\Debug\net10.0\refint\Bai9_TimMaxMin.dll
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai9\Bai9_TimMaxMin\obj\Debug\net10.0\Bai9_TimMaxMin.pdb
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai9\Bai9_TimMaxMin\obj\Debug\net10.0\Bai9_TimMaxMin.genruntimeconfig.cache
+F:\Lab02_HuynhCongTinh_3124411315\TH01_1\Bai9\Bai9_TimMaxMin\obj\Debug\net10.0\ref\Bai9_TimMaxMin.dll

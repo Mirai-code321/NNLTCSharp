@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Bai9_TimMaxMin/Bai9_TimMaxMin.csproj" />
+  <Project Path="Bai9_TimMaxMinTest/Bai9_TimMaxMinTest.csproj" />
+</Solution>
