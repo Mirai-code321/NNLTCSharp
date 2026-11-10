@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Các bài TH5c -->
+    <ProjectReference Include="..\..\TH5c\Bai01_UocSo\Bai01_UocSo.csproj" />
+    <ProjectReference Include="..\..\TH5c\Bai02_QuanLySinhVien\Bai02_QuanLySinhVien.csproj" />
+    <ProjectReference Include="..\..\TH5c\NangCao01_XuLyChuoi\NangCao01_XuLyChuoi.csproj" />
+    <ProjectReference Include="..\..\TH5c\VeNha01_TuDien\VeNha01_TuDien.csproj" />
+    <ProjectReference Include="..\..\TH5c\VeNha02_ListBoxSo\VeNha02_ListBoxSo.csproj" />
+    <ProjectReference Include="..\..\TH5c\VeNha03_DanhBa\VeNha03_DanhBa.csproj" />
+
+    <!-- Các bài TH5d -->
+    <ProjectReference Include="..\Bai01_ListViewSinhVien\Bai01_ListViewSinhVien.csproj" />
+    <ProjectReference Include="..\Bai02_TaiKhoanNganHang\Bai02_TaiKhoanNganHang.csproj" />
+    <ProjectReference Include="..\NangCao01_QuanLyHocVien\NangCao01_QuanLyHocVien.csproj" />
+    <ProjectReference Include="..\VeNha01_DemNguoc\VeNha01_DemNguoc.csproj" />
+  </ItemGroup>
+
+</Project>
